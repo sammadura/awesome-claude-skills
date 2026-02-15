@@ -1,4 +1,3 @@
-
-# Obviously~
-.claude/
-CLAUDE.md
+# Local environment
+.env
+.env.local
